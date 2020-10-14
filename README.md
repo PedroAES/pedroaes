@@ -7,7 +7,6 @@ I'm Brazilian (🇧🇷), and i'm studying Systems Analysis and Development at I
 - 🌱 I’m currently learning Flutter, React, Node.js and GraphQL.
 - 💬 Ask me about anything you want.
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/pedroaes/)
-<!--
 
 <details open>
   <summary>📈 <strong>Some stats:</strong></summary>
@@ -24,6 +23,7 @@ I'm Brazilian (🇧🇷), and i'm studying Systems Analysis and Development at I
   <img src="https://visitor-badge.glitch.me/badge?page_id=PedroAES" alt="Visitors counter badge" />
 </details>
 
+<!--
 **PedroAES/pedroaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
